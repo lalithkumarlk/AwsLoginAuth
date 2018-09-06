@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cognito</string>
+    <string name="app_main_screen_title">Cognito Auth Demo</string>
+
+    <!-- TODO: Add your Cognito pool details here -->
+    <string name="cognito_web_domain">testselfcare.auth.ap-south-1.amazoncognito.com</string>
+    <string name="cognito_client_id">4c4fir93moojfmt62sk11inomj</string>
+    <string name="app_redirect">demoapp://www.loginactivity.com/mainactivity</string>
+    <string name="cognito_client_secret">1i2q7lde3767mj6gei4cn8j4r1min5r3dqnpkb1mcdmbfrvnblkv</string>
+    <!-- Values for this demo App -->
+    <string name="app_access_token">access_token</string>
+    <string name="app_id_token">id_token</string>
+</resources>
